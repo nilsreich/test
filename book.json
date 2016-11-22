@@ -1,7 +1,8 @@
 {
     "plugins": [
         "exercises",
-        "katex"
+        "katex",
+        "youtube"
     ],
     "pluginsConfig": {}
 }
