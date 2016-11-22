@@ -1,6 +1,6 @@
 # My Awesome Book
 
-This file file {%John%} as your b
+This file as your b
 $$
 \int_{-\infty}^\infty g(x) dx
 $$
