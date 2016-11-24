@@ -11,5 +11,5 @@
 * [technical](technical.md)
    * [progressive web app](progressive_web_app.md)
    * [vs. native app](vs_native_app.md)
-   * google analytics
+   * [google analytics](google_analytics.md)
 
