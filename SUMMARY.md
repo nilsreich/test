@@ -10,6 +10,6 @@
    * [user analytics](user_analytics.md)
 * [technical](technical.md)
    * [progressive web app](progressive_web_app.md)
-   * vs. native app
+   * [vs. native app](vs_native_app.md)
    * google analytics
 
