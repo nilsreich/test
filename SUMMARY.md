@@ -7,5 +7,6 @@
 * [general](general.md)
    * usability
    * user experience
+   * user analytics
 * [technical](technical.md)
 
