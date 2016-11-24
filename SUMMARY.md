@@ -5,7 +5,7 @@
    * [goal](goal.md)
    * [idea](idea.md)
 * [general](general.md)
-   * usability
+   * [usability](usability.md)
    * user experience
    * user analytics
 * [technical](technical.md)
