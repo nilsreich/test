@@ -13,5 +13,5 @@
 * [preamble](preamble.md)
    * [goal](goal.md)
    * [idea](idea.md)
-* test
+* [test](test.md)
 
