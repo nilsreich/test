@@ -5,5 +5,6 @@
    * [goal](goal.md)
    * [idea](idea.md)
 * [general](general.md)
+   * usability
 * [technical](technical.md)
 
