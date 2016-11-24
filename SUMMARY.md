@@ -1,9 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [preamble](preamble.md)
-   * [goal](goal.md)
-   * [idea](idea.md)
 * [general](general.md)
    * [usability](usability.md)
    * [user experience](user_experience.md)
@@ -13,5 +10,8 @@
    * [vs. native app](vs_native_app.md)
    * [google analytics](google_analytics.md)
    * [opt-in](opt-in.md)
+* [preamble](preamble.md)
+   * [goal](goal.md)
+   * [idea](idea.md)
 * test
 
