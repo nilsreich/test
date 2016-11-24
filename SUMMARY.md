@@ -9,7 +9,7 @@
    * [user experience](user_experience.md)
    * [user analytics](user_analytics.md)
 * [technical](technical.md)
-   * progressive web app
+   * [progressive web app](progressive_web_app.md)
    * vs. native app
    * google analytics
 
