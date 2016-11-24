@@ -4,4 +4,5 @@
 * [preamble](preamble.md)
 * [general](general.md)
 * [technical](technical.md)
+* goal
 
