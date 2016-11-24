@@ -1,6 +1,6 @@
 # My Awesome Book
 
-1. preamble
+1. introduction
   1. goal
   2. idea
 3. general
