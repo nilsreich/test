@@ -15,5 +15,5 @@
    * [idea](idea.md)
 * [test](test.md)
    * [mkl](mkl.md)
-       * dwec
+       * [dwec](dwec.md)
 
