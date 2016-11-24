@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [preamble](preamble.md)
-* general
+* [general](general.md)
 * technical
 
