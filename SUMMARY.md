@@ -10,4 +10,5 @@
    * user analytics
 * [technical](technical.md)
    * progressive web app
+   * vs. native app
 
