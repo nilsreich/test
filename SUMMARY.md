@@ -9,4 +9,5 @@
    * user experience
    * user analytics
 * [technical](technical.md)
+   * progressive web app
 
