@@ -1,69 +1,72 @@
 # My Awesome Book
 
 1. introduction
-  1. goal
-  2. idea
-3. general
-  4. usability
-  5. user experience
-  6. user analytics
-7. technical
-  8. progressive web app
-  9. vs. native app
-  10. google analytics
-  11. opt-in
-  12. browser support
-  13. katex vs. mathjax
-  14. svg, canvas, webp
-  15. function-plot
-  16. input-system
-  17. local storage
-  18. service workers
-  19. github
-  20. i18n
-  21. offline
-  22. link system
-  23. open source
-  24. json
-  21. y11y
-  22. app-enginde
-  23. polymer-project
-  24. schema.org
-  25. amp
-  26. spa
-  27. algebrite
-  28. webshare API
-  29. Latex
-  30. Markdown
-  31. Github
-32. design
-33. didactical
-  34. no mooc
-  35. khan academy
-  36. udacity
-  37. blended learning
-  38. flipped classroom
-  39. schoolbuchverlage
-  40. bilder
-  41. aufgabenstruktur
-  42. button, checkbox, sortable, slider, range
-  43. open educational ressources
-  44. interactive
-  45. topics (Bruchrechnung, Potenzen, etc.)
-46. real world
-  47. think global, act local
-  48. sctudents in school
-  49. kultusminitreriumskonferenz
-  50. teacher in school
-  51. bring your own device
-  52. vs. books
-  53. connectivity
-  54. real life tests
-  55. real life situations
-  56. real life at home
-  57. OER erstellung
-58. financial
-  59. funding
-  60. ad
-  61. costs
-62. appendix
+   1. goal
+   2. idea
+2. general
+   1. usability
+   2. user experience
+   3. user analytics
+3. technical
+   1. progressive web app
+   2. vs. native app
+   3. google analytics
+   4. opt-in
+   5. browser support
+   6. katex vs. mathjax
+   7. svg, canvas, webp
+   8. function-plot
+   9. input-system
+   10. local storage
+   11. service workers
+   12. github
+   13. i18n
+   14. offline
+   15. link system
+   16. open source
+   17. json
+   18. y11y
+   19. app-enginde
+   20. polymer-project
+   21. schema.org
+   22. amp
+   23. spa
+   24. algebrite
+   25. webshare API
+   26. Latex
+   27. Markdown
+   28. Github
+4. design
+5. didactical
+   1. no mooc
+   2. khan academy
+   3. udacity
+   4. blended learning
+   5. flipped classroom
+   6. schoolbuchverlage
+   7. bilder
+   8. aufgabenstruktur
+   9. button, checkbox, sortable, slider, range
+   10. open educational ressources
+   11. interactive
+   12. topics \(Bruchrechnung, Potenzen, etc.\)
+6. real world
+   1. think global, act local
+   2. sctudents in school
+   3. kultusminitreriumskonferenz
+   4. teacher in school
+   5. bring your own device
+   6. vs. books
+   7. connectivity
+   8. real life tests
+   9. real life situations
+   10. real life at home
+   11. OER erstellung
+7. financial
+   1. funding
+   2. ad
+   3. costs
+8. appendix
+
+
+
