@@ -52,7 +52,7 @@ in dem Bereich von 0 bis 3 berechnet werden, gehen wir immer wie folgt vor:
 
 1. Wir berechnen das Integral dasder Funktion  
    $$2x^2$$  
-   in dem Bereich von 0 und 3,
+   in dem Bereicasdh von 0 und 3,
 
 2. $$\int\_0^3 2x^2dx=...$$
 
