@@ -6,7 +6,7 @@ Hej,
 
 Super dass du dich an die Integralrechnung heran traust!
 
-Die Integralrechnung ist aber auch ein fantastisches Gebiet, unglaubliche Probleme können wir damit auf einfache Art lösen. Doch wie viele mathematisches Themen, klingt auch hier alles beim ersten Lesen furchtbar abstrakt und theoretisch, aber lass dich nicht abschrecken, es ist nicht so schlimm wie es scheint und vielleicht macht es dir ja am Ende sogar Spaß die kleinen mathematischen Rätsel zu lösen. ;-\)
+Die Integralrechnung ist ein fantastisches Gebiet, unglaubliche Probleme können wir damit auf einfache Art lösen. Doch wie viele mathematisches Themen, klingt auch hier alles beim ersten Lesen furchtbar abstrakt und theoretisch, aber lass dich nicht abschrecken, es ist nicht so schlimm wie es scheint und vielleicht macht es dir ja am Ende sogar Spaß die kleinen mathematischen Rätsel zu lösen. ;-\)
 
 Viel Spaß!
 
@@ -28,9 +28,7 @@ Viel Spaß!
 
 # 1. Warum Integralrechnung?
 
-Schön dass du dich dafür entschlossen hast weiter zu lesen! In diesem Abschnitt wird es darum gehen wann und warum wir die Integralrechnung benutzen.
-
-**15min**
+Schön dass du dich dafür entschlossen hast weiter zu lesen! In diesem Kapitel wird es darum gehen wann und warum wir die Integralrechnung benutzen. Nimm dir 15 Minuten Zeit und ließ die Abschnitte aufmerksam durch. 
 
 Die Integralrechnung ist neben der Differentialrechnung der wichtigste Zweig der Analysis. Sie ist aus dem Problem der Flächen- und Volumenberechnung entstanden
 
