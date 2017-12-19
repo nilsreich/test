@@ -17,15 +17,18 @@ Viel Spaß!
 1. Warum Integralrechnung? - Über den Sinn und Nutzen
 
 2. Was sind Stammfunktionen? - Bildungsvorschrift und Zusammenhänge
+
 3. Yeah, eine gekrümmte Fläche! - Die ersten Aufgaben
+
 4. Wohoo, zwei gekrümmte Flächen! - Grenzen und Fläche zwischen zwei Funktionen
+
 5. Jetzt auch in 3D. - Rotationsvolumen
 
 ---
 
 # 1. Warum Integralrechnung?
 
-Schön dass du dich dafür entschlossen hast weiter zu lesen! In diesem Abschnitt wird es darum gehen wann und warum wir die Integralrechnung benutzen. 
+Schön dass du dich dafür entschlossen hast weiter zu lesen! In diesem Abschnitt wird es darum gehen wann und warum wir die Integralrechnung benutzen.
 
 **15min**
 
