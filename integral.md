@@ -2,9 +2,6 @@
 
 **180min**
 
-  
-
-
 * Hej,
 
 * 
@@ -39,7 +36,7 @@
 
 # 1. Warum Integralrechnung?
 
-* Schön dass du dich dafür entschlossen hast weiter zu lesen! In diesem Abschnitt wird es darum gehen wann und warum wir die Integralrechnung benutzen. 
+* Schön dass du dich dafür entschlossen hast weiter zu lesen! In diesem Abschnitt wird es darum gehen wann und warum wir die Integralrechnung benutzen.
 
 * **15min**
 
@@ -53,23 +50,23 @@ $$f\(x\)=2x^2$$
 
 in dem Bereich von 0 bis 3 berechnet werden, gehen wir immer wie folgt vor:
 
-1. Wir berechnen das Integral der Funktion
-   $$2x^2$$
+1. Wir berechnen das Integral dasder Funktion  
+   $$2x^2$$  
    in dem Bereich von 0 und 3,
 
-* $$\int\_0^3 2x^2dx=...$$
+2. $$\int\_0^3 2x^2dx=...$$
 
-1. bilden die Stammfunktion,
+3. bilden die Stammfunktion,
 
-* $$...=\[\frac 1 3 x^3\]\_0^3=...$$
+4. $$...=\[\frac 1 3 x^3\]\_0^3=...$$
 
-1.  setzen nun unsere beiden Grenzen 0 und 3 in die Stammfunktion ein
+5. setzen nun unsere beiden Grenzen 0 und 3 in die Stammfunktion ein
 
-* $$...=\(\frac 1 3 \cdot 3^3\)-\(\frac 1 3 \cdot 0^3\)=...$$
+6. $$...=\(\frac 1 3 \cdot 3^3\)-\(\frac 1 3 \cdot 0^3\)=...$$
 
-1. und bestimmen die Lösung
+7. und bestimmen die Lösung
 
-* $$...\(\frac {27} {3}\) - \(0\)=9$$
+8. $$...\(\frac {27} {3}\) - \(0\)=9$$
 
 
 
