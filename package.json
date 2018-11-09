@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "1. introduction    1. goal    2. idea 2. general    1. usability    2. user experience    3. user analytics 3. technical    1. progressive web app    2. vs. native app    3. google analytics    4. opt-in    5. browser support    6. katex vs. mathjax    7. svg, canvas, webp    8. function-plot    9. input-system    10. local storage    11. service workers    12. github    13. i18n    14. offline    15. link system    16. open source    17. json    18. y11y    19. app-enginde    20. polymer-project    21. schema.org    22. amp    23. spa    24. algebrite    25. webshare API    26. Latex    27. Markdown    28. Github 4. design 5. didactical    1. no mooc    2. khan academy    3. udacity    4. blended learning    5. flipped classroom    6. schoolbuchverlage    7. bilder    8. aufgabenstruktur    9. button, checkbox, sortable, slider, range    10. open educational ressources    11. interactive    12. topics \\(Bruchrechnung, Potenzen, etc.\\) 6. real world    1. think global, act local    2. sctudents in school    3. kultusminitreriumskonferenz    4. teacher in school    5. bring your own device    6. vs. books    7. connectivity    8. real life tests    9. real life situations    10. real life at home    11. OER erstellung 7. financial    1. funding    2. ad    3. costs 8. appendix",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilsreich/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilsreich/test/issues"
+  },
+  "homepage": "https://github.com/nilsreich/test#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-jest": "^23.6.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^23.6.0"
+  }
+}
