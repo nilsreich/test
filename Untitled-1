@@ -1,0 +1,10 @@
+#Projektplanung
+
+Unterteilung in verschiedene Entwicklungsabteilungen:
+1. Infrastruktur Grundlagen(Firebase, Stripe, Github, CircleCI)
+2. Infrastruktur Technik (Authentication, FireStore)
+3. Technik (Redux, ServiceWorker, Tests)
+4. Design
+5. Inhalt
+6. UX (Technik und Design zusammenverschmelzen)
+
